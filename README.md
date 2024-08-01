@@ -1,4 +1,3 @@
-Task 1
 
 Step 1: Create a New Repository on GitHub
 1.	Log in to GitHub: Go to GitHub and log in with your credentials.
